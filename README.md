@@ -11,4 +11,4 @@ en utilisant Tensorflow comme bibliothèque, en étudiant les pourcentages d'aju
 en fonction des paramètres décidés.
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/test_model.png?raw=true)
