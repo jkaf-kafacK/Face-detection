@@ -9,3 +9,6 @@ Chaque face doit avoir 3 informations ou étiquettes :
 Compte tenu de la création du jeu de données, un modèle est développé en apprentissage automatique 
 en utilisant Tensorflow comme bibliothèque, en étudiant les pourcentages d'ajustement et de précision du modèle 
 en fonction des paramètres décidés.
+
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
